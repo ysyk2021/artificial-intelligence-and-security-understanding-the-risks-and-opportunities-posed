@@ -1,5 +1,3 @@
-Types of Artificial Intelligence
-===================================================================================================
 
 In this chapter, we will explore the different types of artificial intelligence (AI). We will cover the fundamentals of each type, their capabilities, and real-world applications in the context of cybersecurity.
 

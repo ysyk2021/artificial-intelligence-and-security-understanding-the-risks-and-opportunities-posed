@@ -1,5 +1,3 @@
-Chapter 3: Cybersecurity Threat Landscape
-=========================================
 
 In order to understand the role that artificial intelligence (AI) can play in cybersecurity, it is important to first understand the cybersecurity threat landscape. In this chapter, we will explore the common cybersecurity threats and types of cyber attacks that organizations face.
 

@@ -1,5 +1,3 @@
-Chapter 7: Future of AI and Cybersecurity
-=========================================
 
 As the use of artificial intelligence (AI) in cybersecurity continues to evolve, it is important to consider the future of these technologies and their potential impact. In this chapter, we will explore two areas of emerging technology that are likely to have a significant impact on the future of AI and cybersecurity: autonomous cyber defense and quantum computing.
 

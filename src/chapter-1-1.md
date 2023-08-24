@@ -1,5 +1,3 @@
-Overview of Artificial Intelligence and Cybersecurity
-==============================================================================
 
 In this chapter, we will provide an overview of the two main topics addressed in this book: artificial intelligence (AI) and cybersecurity. We will examine how these two fields intersect and why it is essential to understand the risks and opportunities posed by intelligent technologies in cyberspace.
 

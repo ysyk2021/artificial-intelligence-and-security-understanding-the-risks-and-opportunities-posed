@@ -1,5 +1,3 @@
-Impact of Quantum Computing on AI and Cybersecurity
-==============================================================================================
 
 Quantum computing represents a major breakthrough in computational power, with the potential to revolutionize the field of artificial intelligence (AI) and cybersecurity. In this chapter, we will explore the impact of quantum computing on AI and cybersecurity, and discuss the implications for the future of these fields.
 

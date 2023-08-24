@@ -1,5 +1,3 @@
-Types of Cyber Attacks
-=================================================================
 
 As artificial intelligence (AI) becomes more pervasive in cybersecurity, the threat landscape is becoming increasingly complex and sophisticated. In this chapter, we will explore the types of cyber attacks that pose a risk to security in cyberspace.
 

@@ -1,5 +1,3 @@
-Machine Learning Techniques
-==============================================================================================
 
 In this chapter, we will explore the basics of machine learning techniques as they relate to artificial intelligence (AI). We will cover the different types of machine learning, how they work, and some common applications in the context of cybersecurity.
 

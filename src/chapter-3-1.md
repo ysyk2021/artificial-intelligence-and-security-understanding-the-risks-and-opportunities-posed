@@ -1,5 +1,3 @@
-Common Cybersecurity Threats
-=======================================================================
 
 In today's digital age, cybersecurity is a major concern for businesses, governments, and individuals alike. In this chapter, we will explore some of the common cybersecurity threats that organizations face in cyberspace.
 

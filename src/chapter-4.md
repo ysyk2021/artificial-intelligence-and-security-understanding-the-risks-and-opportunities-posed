@@ -1,5 +1,3 @@
-Chapter 4: Role of AI in Cybersecurity
-======================================
 
 Artificial intelligence (AI) has the potential to transform the field of cybersecurity by enabling faster and more efficient threat detection and response. In this chapter, we will explore the benefits, challenges, and limitations of using AI in cybersecurity.
 

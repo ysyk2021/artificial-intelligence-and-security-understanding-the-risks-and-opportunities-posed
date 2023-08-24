@@ -1,4 +1,3 @@
-# Introduction
 
 Artificial intelligence (AI) has become an increasingly prevalent technology in our daily lives, including in the field of cybersecurity. While AI can bring significant benefits to the world of cybersecurity, it also poses unique risks and challenges. In this book, we'll explore these risks and opportunities posed by intelligent technologies in cyberspace.
 

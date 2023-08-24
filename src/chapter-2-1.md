@@ -1,9 +1,6 @@
 
 In this chapter, we will explore the history of artificial intelligence (AI) and how it has evolved over time. Understanding the historical context of AI is essential to understanding its current state and potential future developments.
 
-Introduction
-------------
-
 AI has a long and complex history that dates back to ancient civilizations. The term "artificial intelligence" was coined in 1956, and since then, AI has undergone several waves of development and evolution.
 
 Early History of AI

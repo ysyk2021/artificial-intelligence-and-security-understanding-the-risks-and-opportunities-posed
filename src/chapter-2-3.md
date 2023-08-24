@@ -1,9 +1,6 @@
 
 In this chapter, we will explore the basics of machine learning techniques as they relate to artificial intelligence (AI). We will cover the different types of machine learning, how they work, and some common applications in the context of cybersecurity.
 
-Introduction
-------------
-
 Machine learning is a subset of AI that involves the use of algorithms and statistical models to enable a system to improve its performance on a specific task over time. In cybersecurity, machine learning can be used to detect and respond to threats more quickly and effectively.
 
 Types of Machine Learning

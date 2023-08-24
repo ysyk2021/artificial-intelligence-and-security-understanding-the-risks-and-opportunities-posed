@@ -1,9 +1,6 @@
 
 As artificial intelligence (AI) becomes more pervasive in cybersecurity, the threat landscape is becoming increasingly complex and sophisticated. In this chapter, we will explore the types of cyber attacks that pose a risk to security in cyberspace.
 
-Introduction
-------------
-
 Cyber attacks are deliberate attempts to breach or exploit computer systems, networks, or devices. These attacks can take many forms and can be carried out by a variety of individuals or groups, including hacktivists, cyber criminals, and nation-state actors.
 
 Types of Cyber Attacks

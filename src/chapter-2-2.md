@@ -1,9 +1,6 @@
 
 In this chapter, we will explore the different types of artificial intelligence (AI). We will cover the fundamentals of each type, their capabilities, and real-world applications in the context of cybersecurity.
 
-Introduction
-------------
-
 AI is a rapidly evolving field with a wide range of applications in cybersecurity. Understanding the various types of AI is essential to comprehending how they can be used for threat detection, response, and prevention.
 
 Types of Artificial Intelligence

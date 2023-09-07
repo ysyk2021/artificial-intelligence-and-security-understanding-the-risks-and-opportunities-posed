@@ -25,3 +25,4 @@
   - [Impact of Quantum Computing on AI and Cybersecurity](chapter-7-2.md)
 - [Conclusion](conclusion.md)
 - [Contacts](contacts.md)
+- [Our Other Books](other-books.md)

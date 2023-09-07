@@ -10,3 +10,7 @@ By the end of this book, you'll have a thorough understanding of the risks and o
 Whether you're a cybersecurity professional, an IT manager, or simply someone interested in the latest developments in AI and cybersecurity, this book is the ultimate resource for understanding the intersection between these two critical fields. Let's get started!
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng

@@ -1,5 +1,4 @@
-Chapter: Benefits of AI in Cybersecurity
-========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the various benefits that artificial intelligence (AI) brings to the field of cybersecurity. As intelligent technologies continue to advance, AI plays a critical role in enhancing cyber defense capabilities. This chapter highlights some key advantages of leveraging AI in cybersecurity.
 

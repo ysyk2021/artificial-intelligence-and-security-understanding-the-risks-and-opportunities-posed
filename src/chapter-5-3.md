@@ -1,5 +1,4 @@
-Chapter: Network Traffic Analysis
-=================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the significance of network traffic analysis in the context of cybersecurity and how artificial intelligence (AI) can enhance this process. Network traffic analysis involves monitoring and examining the data flowing through a network to gain insights into its behavior, detect anomalies, and identify potential security threats. With the increasing complexity and volume of network traffic, AI-driven techniques are becoming indispensable for efficient and effective analysis. This chapter provides an overview of network traffic analysis and its intersection with AI in the realm of cybersecurity.
 

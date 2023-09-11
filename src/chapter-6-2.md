@@ -1,5 +1,4 @@
-Chapter: Legal Framework
-========================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the legal framework surrounding artificial intelligence (AI) and its implications for security in cyberspace. As intelligent technologies become increasingly prevalent, it is essential to establish a robust legal framework that addresses the risks and opportunities associated with AI. This chapter highlights some key considerations for developing effective regulations and guidelines in this dynamic field.
 

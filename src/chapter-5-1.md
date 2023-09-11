@@ -1,5 +1,4 @@
-Chapter: Intrusion Detection Systems
-====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the topic of Intrusion Detection Systems (IDS) in the context of artificial intelligence and cybersecurity. Intrusion Detection Systems play a crucial role in identifying and responding to malicious activities within computer networks. We will discuss the fundamentals of IDS, different types of IDS, their working mechanisms, and the role of artificial intelligence in enhancing their effectiveness.
 

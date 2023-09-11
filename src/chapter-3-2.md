@@ -1,5 +1,4 @@
-Chapter: Types of Cyber Attacks
-===============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the different types of cyber attacks that pose risks and challenges in the realm of cybersecurity. Understanding these attack types is crucial for mitigating risks, developing effective defense strategies, and safeguarding against potential threats. We will discuss the characteristics, techniques, and potential consequences of various cyber attacks.
 

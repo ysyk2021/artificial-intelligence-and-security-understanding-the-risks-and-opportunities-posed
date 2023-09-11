@@ -1,5 +1,4 @@
-Chapter: Common Cybersecurity Threats
-=====================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the common cybersecurity threats that individuals and organizations face in today's interconnected cyberspace. Understanding these threats is crucial for developing effective security strategies, protecting sensitive information, and mitigating potential risks. We will discuss various types of cyber threats, their characteristics, and the potential consequences they pose.
 

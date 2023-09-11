@@ -1,5 +1,4 @@
-Chapter: Ethical Considerations
-===============================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the ethical considerations surrounding artificial intelligence (AI) and its application in the field of cybersecurity. As AI technologies become increasingly prevalent, it is essential to address the ethical implications and ensure that AI is developed and used responsibly. This chapter highlights some key ethical considerations in the context of AI and cybersecurity.
 
